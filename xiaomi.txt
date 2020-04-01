@@ -38,3 +38,4 @@
 ||api.ad.xiaomi.com^$important
 ||ott.io.mi.com^$important
 ||api.ai.xiaomi.com^$important
+||xmpush.xiaomi.com^$important
