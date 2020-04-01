@@ -1,4 +1,4 @@
-||stat.pandora.xiaomi.com^$important
+||pandora.xiaomi.com^$important
 ||upgrade.mishop.pandora.xiaomi.com^$important
 ||logonext.tv.kuyun.com^$important
 ||config.kuyun.com^$important
