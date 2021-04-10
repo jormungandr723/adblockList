@@ -39,3 +39,4 @@
 ||ott.io.mi.com^$important
 ||api.ai.xiaomi.com^$important
 ||xmpush.xiaomi.com^$important
+||ptpt52.com^$important
